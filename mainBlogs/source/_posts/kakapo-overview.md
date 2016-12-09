@@ -1,7 +1,13 @@
 ---
 title: kakapo overview
 date: 2016-12-08 10:19:48
+categories:
+  - kakapo
 tags:
+  - kafka
+  - storm
+  - Redis
+  - vuejs
 ---
 Title:  sensor数据的实时采集，传输和显示  
 

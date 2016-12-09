@@ -1,7 +1,10 @@
 ---
 title: new to php
 date: 2016-12-08 10:17:18
+categories:
+  - php
 tags:
+  - php
 ---
 #Install PHP and etc using xampp on ubuntu
 1. download and install xampp

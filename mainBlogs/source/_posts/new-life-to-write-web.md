@@ -1,7 +1,12 @@
 ---
 title: new life to write web
 date: 2016-12-08 10:18:29
+categories:
+  - web
 tags:
+  - nodejs
+  - npm
+  - webpack
 ---
 # Node.js 的征服
 

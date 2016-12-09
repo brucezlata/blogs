@@ -35,10 +35,10 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   #about: /about
   archives: /archives
-  #tags: /tags
+  tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -130,7 +130,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+  GitHub: https://github.com/brucezlata
   #LinkLabel: Link
 
 
@@ -266,7 +267,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: zlatabruce
 
 # Hypercomments
 #hypercomments_id:
